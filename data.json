@@ -569,7 +569,7 @@
             "url": "https://www.youtube.com/watch?v=ksCSL6Ql0Yg",
             "date": "2016-09-01",
             "papers": ["http://dcgi.fel.cvut.cz/home/sykorad/Fiser16-SIG.pdf"],
-            "implementations": [https://github.com/manuelruder/artistic-videos]
+            "implementations": ["https://github.com/manuelruder/artistic-videos"]
         },
         {
             "name": "Automatic Hair Modeling from One Image",

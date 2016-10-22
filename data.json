@@ -2,544 +2,544 @@
     "videos": [
         {
             "name": "Fluid Simulations with Blender and Wavelet Turbulence",
-            "link": "https://www.youtube.com/watch?v=5xLSbj5SsSE",
+            "url": "https://www.youtube.com/watch?v=5xLSbj5SsSE",
             "papers": ["http://www.cs.cornell.edu/~tedkim/wturb/wavelet_turbulence.pdf"],
             "implementations": []
         },
         {
             "name": "Capturing Waves of Light With Femto-photography",
-            "link": "https://www.youtube.com/watch?v=TRNUTN01SEg",
+            "url": "https://www.youtube.com/watch?v=TRNUTN01SEg",
             "papers": ["http://dspace.mit.edu/openaccess-disseminate/1721.1/82039"],
             "implementations": []
         },
         {
             "name": "Artificial Neural Networks and Deep Learning",
-            "link": "https://www.youtube.com/watch?v=rCWTOOgVXyE",
+            "url": "https://www.youtube.com/watch?v=rCWTOOgVXyE",
             "papers": [null]
         },
         {
             "name": "Simulating Breaking Glass",
-            "link": "https://www.youtube.com/watch?v=A7Gut679I-o",
+            "url": "https://www.youtube.com/watch?v=A7Gut679I-o",
             "papers": ["http://graphics.berkeley.edu/papers/Pfaff-ATC-2014-07/Pfaff-ATC-2014-07.pdf"],
             "implementations": []
         },
         {
             "name": "Time Lapse Videos From Community Photos",
-            "link": "https://www.youtube.com/watch?v=UePDRN94C8c",
+            "url": "https://www.youtube.com/watch?v=UePDRN94C8c",
             "papers": ["http://grail.cs.washington.edu/projects/timelapse/TimelapseMiningSIGGRAPH15.pdf"],
             "implementations": []
         },
         {
             "name": "Deep Neural Network Learns Van Gogh's Art",
-            "link": "https://www.youtube.com/watch?v=-R9bJGNHltQ",
+            "url": "https://www.youtube.com/watch?v=-R9bJGNHltQ",
             "papers": ["https://arxiv.org/pdf/1508.06576v1.pdf"],
             "implementations": []
         },
         {
             "name": "Hydrographic Printing (in 3D)",
-            "link": "https://www.youtube.com/watch?v=kLnG073NYtw",
+            "url": "https://www.youtube.com/watch?v=kLnG073NYtw",
             "papers": ["http://www.cs.columbia.edu/~cxz/publications/hydrographics.pdf"],
             "implementations": []
         },
         {
             "name": "Digital Creatures Learn To Walk",
-            "link": "https://www.youtube.com/watch?v=kQ2bqz3HPJE",
+            "url": "https://www.youtube.com/watch?v=kQ2bqz3HPJE",
             "papers": ["http://www.goatstream.com/research/papers/SA2013/SA2013.pdf"],
             "implementations": []
         },
         {
             "name": " Manipulating Photorealistic Renderings",
-            "link": "https://www.youtube.com/watch?v=L7MOeQw47BM",
+            "url": "https://www.youtube.com/watch?v=L7MOeQw47BM",
             "papers": ["https://cg.ivd.kit.edu/publications/p2013/PSMPBLT/PSMPBLT.pdf"],
             "implementations": []
         },
         {
             "name": "Adaptive Fluid Simulations",
-            "link": "https://www.youtube.com/watch?v=dH1s49-lrBk",
+            "url": "https://www.youtube.com/watch?v=dH1s49-lrBk",
             "papers": ["http://pub.ist.ac.at/group_wojtan/projects/2013_Ando_HALSoTM/download/tetflip_fixed.pdf"],
             "implementations": []
         },
         {
             "name": "Building Bridges With Flying Machines",
-            "link": "https://www.youtube.com/watch?v=SmyiKmfnbhc",
+            "url": "https://www.youtube.com/watch?v=SmyiKmfnbhc",
             "papers": ["http://flyingmachinearena.org/wp-content/publications/2013/augIROS13.pdf"],
             "implementations": []
         },
         {
             "name": "Reconstructing Sound From Vibrations",
-            "link": "https://www.youtube.com/watch?v=2i1hrywDwPo",
+            "url": "https://www.youtube.com/watch?v=2i1hrywDwPo",
             "papers": ["http://people.csail.mit.edu/mrub/papers/VisualMic_SIGGRAPH2014.pdf"],
             "implementations": []
         },
         {
             "name": "Creating Photographs Using Deep Learning",
-            "link": "https://www.youtube.com/watch?v=HOLoPgTzV6g",
+            "url": "https://www.youtube.com/watch?v=HOLoPgTzV6g",
             "papers": ["http://research.microsoft.com/en-us/um/people/yuedong/project/neuralibr/neuralibr.pdf"],
             "implementations": []
         },
         {
             "name": "Adaptive Cloth Simulations",
-            "link": "https://www.youtube.com/watch?v=LU3pdWTD4Rw",
+            "url": "https://www.youtube.com/watch?v=LU3pdWTD4Rw",
             "papers": ["http://graphics.berkeley.edu/papers/Narain-AAR-2012-11/Narain-AAR-2012-11.pdf"],
             "implementations": []
         },
         {
             "name": "Synthesizing Sound From Collisions",
-            "link": "https://www.youtube.com/watch?v=rskdLEl05KI",
+            "url": "https://www.youtube.com/watch?v=rskdLEl05KI",
             "papers": ["http://www.cs.cornell.edu/projects/Sound/mc/ModalContactSound2011.pdf"],
             "implementations": []
         },
         {
             "name": "Metropolis Light Transport",
-            "link": "https://www.youtube.com/watch?v=f0Uzit_-h3M",
+            "url": "https://www.youtube.com/watch?v=f0Uzit_-h3M",
             "papers": ["http://graphics.stanford.edu/papers/metro/metro.pdf"],
             "implementations": []
         },
         {
             "name": "3D Printing a Glockenspiel",
-            "link": "https://www.youtube.com/watch?v=2kOCTf8jIik",
+            "url": "https://www.youtube.com/watch?v=2kOCTf8jIik",
             "papers": ["http://people.seas.harvard.edu/~gaurav/papers/cdmcs_sa_2015/cdmcs_sa_2015.pdf"],
             "implementations": []
         },
         {
             "name": "Modeling Colliding and Merging Fluids",
-            "link": "https://www.youtube.com/watch?v=uj8b5mu0P7Y",
+            "url": "https://www.youtube.com/watch?v=uj8b5mu0P7Y",
             "papers": ["http://www.cs.columbia.edu/cg/multitracker/multitracker.pdf"],
             "implementations": []
         },
         {
             "name": "Recurrent Neural Network Writes Music and Shakespeare Novels",
-            "link": "https://www.youtube.com/watch?v=Jkkjy7dVdaY",
+            "url": "https://www.youtube.com/watch?v=Jkkjy7dVdaY",
             "papers": ["http://karpathy.github.io/2015/05/21/rnn-effectiveness/"],
             "implementations": []
         },
         {
             "name": "Gradients, Poisson's Equation and Light Transport",
-            "link": "https://www.youtube.com/watch?v=sSnDTPjfBYU",
+            "url": "https://www.youtube.com/watch?v=sSnDTPjfBYU",
             "papers": ["https://mediatech.aalto.fi/publications/graphics/GPT/kettunen2015siggraph_paper.pdf", "https://mediatech.aalto.fi/publications/graphics/GMLT/lehtinen2013siggraph_paper.pdf"],
             "implementations": []
         },
         {
             "name": "Real-Time Facial Expression Transfer",
-            "link": "https://www.youtube.com/watch?v=mkI6qfpEJmI",
+            "url": "https://www.youtube.com/watch?v=mkI6qfpEJmI",
             "papers": ["http://graphics.stanford.edu/~niessner/papers/2015/10face/thies2015realtime.pdf"],
             "implementations": []
         },
         {
             "name": "Automatic Lecture Notes From Videos",
-            "link": "https://www.youtube.com/watch?v=8xjTtE3JCDw",
+            "url": "https://www.youtube.com/watch?v=8xjTtE3JCDw",
             "papers": ["http://web.mit.edu/hishin/www/paper.pdf"],
             "implementations": []
         },
         {
             "name": "Recurrent Neural Network Writes Sentences About Images",
-            "link": "https://www.youtube.com/watch?v=e-WB4lfg30M",
+            "url": "https://www.youtube.com/watch?v=e-WB4lfg30M",
             "papers": ["http://cs.stanford.edu/people/karpathy/cvpr2015.pdf"],
             "implementations": []
         },
         {
             "name": "How Does Deep Learning Work?",
-            "link": "https://www.youtube.com/watch?v=He4t7Zekob0",
+            "url": "https://www.youtube.com/watch?v=He4t7Zekob0",
             "papers": ["http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/"],
             "implementations": []
         },
         {
             "name": "Cryptography, Perfect Secrecy and One Time Pads",
-            "link": "https://www.youtube.com/watch?v=Q-XKOPNIDAg",
+            "url": "https://www.youtube.com/watch?v=Q-XKOPNIDAg",
             "papers": ["http://math.boisestate.edu/~liljanab/Math509Spring10/vernam.pdf"],
             "implementations": []
         },
         {
             "name": "Terrain Traversal with Reinforcement Learning",
-            "link": "https://www.youtube.com/watch?v=_yjHPu1aYCY",
+            "url": "https://www.youtube.com/watch?v=_yjHPu1aYCY",
             "papers": ["http://www.cs.ubc.ca/~van/papers/2015-TOG-terrainRL/2015-TOG-terrainRL.pdf"],
             "implementations": []
         },
         {
             "name": "Google DeepMind's Deep Q-Learning & Superhuman Atari Gameplays",
-            "link": "https://www.youtube.com/watch?v=Ih8EfvOzBOY",
+            "url": "https://www.youtube.com/watch?v=Ih8EfvOzBOY",
             "papers": ["https://www.cs.swarthmore.edu/~meeden/cs63/s15/nature15b.pdf"],
             "implementations": []
         },
         {
             "name": "Are We Living In a Computer Simulation?",
-            "link": "https://www.youtube.com/watch?v=ATN9oqMF_qk",
+            "url": "https://www.youtube.com/watch?v=ATN9oqMF_qk",
             "papers": ["http://www.simulation-argument.com/simulation.pdf"],
             "implementations": []
         },
         {
             "name": "Artificial Superintelligence ",
-            "link": "https://www.youtube.com/watch?v=08V_F19HUfI",
+            "url": "https://www.youtube.com/watch?v=08V_F19HUfI",
             "papers": [null]
         },
         {
             "name": "Automatic Parameter Control for Metropolis Light Transport",
-            "link": "https://www.youtube.com/watch?v=9wOBkJJ-w2s",
+            "url": "https://www.youtube.com/watch?v=9wOBkJJ-w2s",
             "papers": ["http://cg.tuwien.ac.at/~zsolnai/wp/wp-content/uploads/2014/01/adaptivemetro_eg.pdf"],
             "implementations": []
         },
         {
             "name": "Randomness and Bell's Inequality",
-            "link": "https://www.youtube.com/watch?v=674DL39dOOQ",
+            "url": "https://www.youtube.com/watch?v=674DL39dOOQ",
             "papers": ["http://www.drchinese.com/David/Bell_Compact.pdf"],
             "implementations": []
         },
         {
             "name": "How Do Genetic Algorithms Work?",
-            "link": "https://www.youtube.com/watch?v=ziMHaGQJuSI",
+            "url": "https://www.youtube.com/watch?v=ziMHaGQJuSI",
             "papers": [null]
         },
         {
             "name": "Painting with Fluid Simulations",
-            "link": "https://www.youtube.com/watch?v=1aVSb-UbYWc",
+            "url": "https://www.youtube.com/watch?v=1aVSb-UbYWc",
             "papers": ["http://web.cse.ohio-state.edu/~whmin/Chen-2015-WB/Chen-2015-WB.pdf"],
             "implementations": []
         },
         {
             "name": "Neural Programmer-Interpreters Learn To Write Programs",
-            "link": "https://www.youtube.com/watch?v=B70tT4WMyJk",
+            "url": "https://www.youtube.com/watch?v=B70tT4WMyJk",
             "papers": ["https://arxiv.org/pdf/1511.06279v4"],
             "implementations": []
         },
         {
             "name": "Designing Cities and Furnitures With Machine Learning",
-            "link": "https://www.youtube.com/watch?v=kMa_B3wLxAM",
+            "url": "https://www.youtube.com/watch?v=kMa_B3wLxAM",
             "papers": ["http://lgg.epfl.ch/publications/2015/proman/paper.pdf"],
             "implementations": []
         },
         {
             "name": "Designing 3D Printable Robotic Creatures",
-            "link": "https://www.youtube.com/watch?v=ImIaoKsjgUE",
+            "url": "https://www.youtube.com/watch?v=ImIaoKsjgUE",
             "papers": ["https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20151029152924/Interactive-Design-of-3D-Printable-Robotic-Creatures-Paper.pdf"],
             "implementations": []
         },
         {
             "name": "3D Printing Objects With Caustics",
-            "link": "https://www.youtube.com/watch?v=_r-eIKkyAco",
+            "url": "https://www.youtube.com/watch?v=_r-eIKkyAco",
             "papers": ["http://lgg.epfl.ch/publications/2014/Caustics/paper.pdf"],
             "implementations": []
         },
         {
             "name": "Interactive Editing of Subsurface Scattering",
-            "link": "https://www.youtube.com/watch?v=eI_QUtgJHH8",
+            "url": "https://www.youtube.com/watch?v=eI_QUtgJHH8",
             "papers": ["http://graphics.berkeley.edu/papers/Milos-IAE-2013-02/Milos-IAE-2013-02.pdf"],
             "implementations": []
         },
         {
             "name": "Simulating Viscosity and Melting Fluids",
-            "link": "https://www.youtube.com/watch?v=KgIrnR2O8KQ",
+            "url": "https://www.youtube.com/watch?v=KgIrnR2O8KQ",
             "papers": ["http://cg.informatik.uni-freiburg.de/publications/2015_SIGGRAPH_viscousSPH.pdf"],
             "implementations": []
         },
         {
             "name": "What Do Virtual Objects Sound Like?",
-            "link": "https://www.youtube.com/watch?v=ZaFqvM1IsP8",
+            "url": "https://www.youtube.com/watch?v=ZaFqvM1IsP8",
             "papers": ["http://www.cs.columbia.edu/cg/transfer/interactive-acoustic-transfer-approximation-for-modal-sound-tog-2016-li-et-al.pdf"],
             "implementations": []
         },
         {
             "name": "How DeepMind Conquered Go With Deep Learning (AlphaGo)",
-            "link": "https://www.youtube.com/watch?v=IFmj5M5Q5jg",
+            "url": "https://www.youtube.com/watch?v=IFmj5M5Q5jg",
             "papers": ["https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf"],
             "implementations": []
         },
         {
             "name": "Breaking Deep Learning Systems With Adversarial Examples",
-            "link": "https://www.youtube.com/watch?v=j9FLOinaG94",
+            "url": "https://www.youtube.com/watch?v=j9FLOinaG94",
             "papers": ["https://arxiv.org/pdf/1312.6199v4", "https://arxiv.org/pdf/1412.6572v3"],
             "implementations": []
         },
         {
             "name": "Biophysical Skin Aging Simulations",
-            "link": "https://www.youtube.com/watch?v=u3C4zkxNtok",
+            "url": "https://www.youtube.com/watch?v=u3C4zkxNtok",
             "papers": ["http://giga.cps.unizar.es/~ajarabo/pubs/skinAgingEG15/downloads/Iglesias_eg15.pdf"],
             "implementations": []
         },
         {
             "name": "What is Impostor Syndrome?",
-            "link": "https://www.youtube.com/watch?v=YPpIWQnufu8",
+            "url": "https://www.youtube.com/watch?v=YPpIWQnufu8",
             "papers": ["http://www.suzanneimes.com/wp-content/uploads/2012/09/Imposter-Phenomenon.pdf"],
             "implementations": []
         },
         {
             "name": "Should You Take the Stairs at Work? (For Weight Loss)",
-            "link": "https://www.youtube.com/watch?v=58tsN03IXlw",
+            "url": "https://www.youtube.com/watch?v=58tsN03IXlw",
             "papers": ["https://www.researchgate.net/profile/Abdul_Rashid_Aziz/publication/11432301_Heart_rate_oxygen_uptake_and_energy_cost_of_ascending_and_descending_the_stairs/links/544911890cf244fe9ea21532.pd"],
             "implementations": []
         },
         {
             "name": "Artistic Manipulation of Caustics",
-            "link": "https://www.youtube.com/watch?v=K-0KJtk07YU",
+            "url": "https://www.youtube.com/watch?v=K-0KJtk07YU",
             "papers": ["http://vc.cs.ovgu.de/files/publications/2016/Guenther_2016_EGb.pdf"],
             "implementations": []
         },
         {
             "name": "Deep Learning Program Learns to Paint",
-            "link": "https://www.youtube.com/watch?v=UGAzi1QBVEg",
+            "url": "https://www.youtube.com/watch?v=UGAzi1QBVEg",
             "papers": ["https://arxiv.org/pdf/1601.04589v1.pdf"],
             "implementations": []
         },
         {
             "name": "Interactive Photo Recoloring",
-            "link": "https://www.youtube.com/watch?v=-dbkE4FFPrI",
+            "url": "https://www.youtube.com/watch?v=-dbkE4FFPrI",
             "papers": ["http://gfx.cs.princeton.edu/pubs/Chang_2015_PPR/chang2015-palette_small.pdf"],
             "implementations": []
         },
         {
             "name": "How DeepMind's AlphaGo Defeated Lee Sedol",
-            "link": "https://www.youtube.com/watch?v=a-ovvd_ZrmA",
+            "url": "https://www.youtube.com/watch?v=a-ovvd_ZrmA",
             "papers": ["https://storage.googleapis.com/deepmind-data/assets/papers/deepmind-mastering-go.pdf"],
             "implementations": []
         },
         {
             "name": "3D Depth From a Single Photograph",
-            "link": "https://www.youtube.com/watch?v=ZolWxY4f9wc",
+            "url": "https://www.youtube.com/watch?v=ZolWxY4f9wc",
             "papers": ["http://www.cs.cornell.edu/~asaxena/learningdepth/saxena_ijcv07_learningdepth.pdf"],
             "implementations": []
         },
         {
             "name": "Decision Trees and Boosting, XGBoost",
-            "link": "https://www.youtube.com/watch?v=0Xc9LIb_HTw",
+            "url": "https://www.youtube.com/watch?v=0Xc9LIb_HTw",
             "papers": ["http://www.public.asu.edu/~jye02/CLASSES/Fall-2005/PAPERS/boosting-icml.pdf"],
             "implementations": []
         },
         {
             "name": "Overfitting and Regularization For Deep Learning",
-            "link": "https://www.youtube.com/watch?v=6aF9sJrzxaM",
+            "url": "https://www.youtube.com/watch?v=6aF9sJrzxaM",
             "papers": ["http://statweb.stanford.edu/~tibs/lasso/lasso.pdf"],
             "implementations": []
         },
         {
             "name": "From Doodles To Paintings With Deep Learning",
-            "link": "https://www.youtube.com/watch?v=jMZqxfTls-0",
+            "url": "https://www.youtube.com/watch?v=jMZqxfTls-0",
             "papers": ["https://arxiv.org/pdf/1603.01768v1.pdf"],
             "implementations": []
         },
         {
             "name": "The Dunning-Kruger Effect",
-            "link": "https://www.youtube.com/watch?v=4Y7RIAgOpn0",
+            "url": "https://www.youtube.com/watch?v=4Y7RIAgOpn0",
             "papers": ["http://www.nottingham.ac.uk/~ntzcl1/literature/metacognition/kruger.pdf"],
             "implementations": []
         },
         {
             "name": "Narrow Band Liquid Simulations",
-            "link": "https://www.youtube.com/watch?v=nfPBT71xYVQ",
+            "url": "https://www.youtube.com/watch?v=nfPBT71xYVQ",
             "papers": ["https://wwwcg.in.tum.de/fileadmin/user_upload/Lehrstuehle/Lehrstuhl_XV/Research/Publications/2016/NBFlip/nbflip.pdf"],
             "implementations": []
         },
         {
             "name": "Training Deep Neural Networks With Dropout",
-            "link": "https://www.youtube.com/watch?v=LhhEv1dMpKE",
+            "url": "https://www.youtube.com/watch?v=LhhEv1dMpKE",
             "papers": ["https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf"],
             "implementations": []
         },
         {
             "name": "Face2Face: Real-Time Facial Reenactment",
-            "link": "https://www.youtube.com/watch?v=_S1lyQbbJM4",
+            "url": "https://www.youtube.com/watch?v=_S1lyQbbJM4",
             "papers": ["http://www.graphics.stanford.edu/~niessner/papers/2016/1facetoface/thies2016face.pdf"],
             "implementations": []
         },
         {
             "name": "Deep Learning and Cancer Research",
-            "link": "https://www.youtube.com/watch?v=5PSWr2ovBvU",
+            "url": "https://www.youtube.com/watch?v=5PSWr2ovBvU",
             "papers": ["http://www.nature.com/articles/srep21471.pdf"],
             "implementations": []
         },
         {
             "name": "Real-Time Shading With Area Light Sources",
-            "link": "https://www.youtube.com/watch?v=SC0D7aJOySY",
+            "url": "https://www.youtube.com/watch?v=SC0D7aJOySY",
             "papers": ["https://docs.google.com/uc?export=download&confirm=LArc&id=0BzvWIdpUpRx_d09ndGVjNVJzZjA"],
             "implementations": []
         },
         {
             "name": "Separable Subsurface Scattering",
-            "link": "https://www.youtube.com/watch?v=72_iAlYwl0c",
+            "url": "https://www.youtube.com/watch?v=72_iAlYwl0c",
             "papers": ["http://www.iryoku.com/separable-sss/downloads/Separable-Subsurface-Scattering.pdf"],
             "implementations": []
         },
         {
             "name": "Deep Reinforcement Terrain Learning",
-            "link": "https://www.youtube.com/watch?v=wBrwN4dS-DA",
+            "url": "https://www.youtube.com/watch?v=wBrwN4dS-DA",
             "papers": ["http://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/2016-TOG-deepRL.pdf"],
             "implementations": []
         },
         {
             "name": "Artistic Style Transfer For Videos",
-            "link": "https://www.youtube.com/watch?v=Uxax5EKg0zA",
+            "url": "https://www.youtube.com/watch?v=Uxax5EKg0zA",
             "papers": ["https://arxiv.org/pdf/1604.08610v1"],
             "implementations": []
         },
         {
             "name": "Surface-Only Liquids",
-            "link": "https://www.youtube.com/watch?v=-rf_MDh-FiE",
+            "url": "https://www.youtube.com/watch?v=-rf_MDh-FiE",
             "papers": ["http://www.cs.columbia.edu/cg/surfaceliquids/droplets.pdf"],
             "implementations": []
         },
         {
             "name": "Schrödinger's Smoke",
-            "link": "https://www.youtube.com/watch?v=heY2gfXSHBo",
+            "url": "https://www.youtube.com/watch?v=heY2gfXSHBo",
             "papers": ["http://multires.caltech.edu/pubs/SchrodingersSmoke.pdf"],
             "implementations": []
         },
         {
             "name": "Image Colorization With Deep Learning and Classification",
-            "link": "https://www.youtube.com/watch?v=MfaTOXxA8dM",
+            "url": "https://www.youtube.com/watch?v=MfaTOXxA8dM",
             "papers": ["http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/data/colorization_sig2016.pdf"],
             "implementations": []
         },
         {
             "name": "Hallucinating Images With Deep Learning",
-            "link": "https://www.youtube.com/watch?v=hnT-P3aALVE",
+            "url": "https://www.youtube.com/watch?v=hnT-P3aALVE",
             "papers": ["https://arxiv.org/pdf/1605.05396v2"],
             "implementations": []
         },
         {
             "name": "What Can We Learn From Deep Learning Programs?",
-            "link": "https://www.youtube.com/watch?v=ZBWTD2aNb_o",
+            "url": "https://www.youtube.com/watch?v=ZBWTD2aNb_o",
             "papers": ["https://www.cs.cornell.edu/~caruana/compression.kdd06.pdf"],
             "implementations": []
         },
         {
             "name": "Procedural Yarn Models for Cloth Rendering",
-            "link": "https://www.youtube.com/watch?v=iTRnr6p7iYo",
+            "url": "https://www.youtube.com/watch?v=iTRnr6p7iYo",
             "papers": ["http://www.cs.cornell.edu/~kb/publications/SIG16ProceduralYarn.pdf"],
             "implementations": []
         },
         {
             "name": "Fermat Spirals for Layered 3D Printing",
-            "link": "https://www.youtube.com/watch?v=6rNcAVr-U4s",
+            "url": "https://www.youtube.com/watch?v=6rNcAVr-U4s",
             "papers": ["http://irc.cs.sdu.edu.cn/uploadfile/2016/0519/20160519043134349.pdf"],
             "implementations": []
         },
         {
             "name": "Time Varying Textures",
-            "link": "https://www.youtube.com/watch?v=FMHGS8jWtzM",
+            "url": "https://www.youtube.com/watch?v=FMHGS8jWtzM",
             "papers": ["http://www.math.tau.ac.il/~dcor/articles/2016/TW.pdf"],
             "implementations": []
         },
         {
             "name": "Visually Indicated Sounds",
-            "link": "https://www.youtube.com/watch?v=flOevlA9RyQ",
+            "url": "https://www.youtube.com/watch?v=flOevlA9RyQ",
             "papers": ["https://arxiv.org/pdf/1512.08512v2"],
             "implementations": []
         },
         {
             "name": "Photorealistic Images from Drawings",
-            "link": "https://www.youtube.com/watch?v=a3sgFQjEfp4",
+            "url": "https://www.youtube.com/watch?v=a3sgFQjEfp4",
             "papers": ["http://sketchy.eye.gatech.edu/paper.pdf"],
             "implementations": []
         },
         {
             "name": "Bundlefusion: 3D Scenes from 2D Videos",
-            "link": "https://www.youtube.com/watch?v=zLzhsyeAie4",
+            "url": "https://www.youtube.com/watch?v=zLzhsyeAie4",
             "papers": ["https://arxiv.org/pdf/1604.01093v1.pdf"],
             "implementations": []
         },
         {
             "name": "What is Optimization? + Learning Gradient Descent",
-            "link": "https://www.youtube.com/watch?v=1ypV5ZiIbdA",
+            "url": "https://www.youtube.com/watch?v=1ypV5ZiIbdA",
             "papers": ["http://arxiv.org/pdf/1606.04474v1.pdf"],
             "implementations": []
         },
         {
             "name": "Task-based Animation of Virtual Characters",
-            "link": "https://www.youtube.com/watch?v=ZHoNpxUHewQ",
+            "url": "https://www.youtube.com/watch?v=ZHoNpxUHewQ",
             "papers": ["http://www.cs.ubc.ca/~van/papers/2016-TOG-taskBasedLocomotion/2016-TOG-taskBasedLocomotion.pdf"],
             "implementations": []
         },
         {
             "name": "Peer Review and the NIPS Experiment",
-            "link": "https://www.youtube.com/watch?v=a1z6GXj8QK8",
+            "url": "https://www.youtube.com/watch?v=a1z6GXj8QK8",
             "papers": ["http://blog.mrtz.org/2014/12/15/the-nips-experiment.html"],
             "implementations": []
         },
         {
             "name": "The Science of Medal Predictions (2016 Rio Olympics Edition)",
-            "link": "https://www.youtube.com/watch?v=gHMY40kEXzs",
+            "url": "https://www.youtube.com/watch?v=gHMY40kEXzs",
             "papers": ["https://www.researchgate.net/profile/Daniel_Johnson7/publication/4920482_A_Tale_of_Two_Seasons_Participation_and_Medal_Counts_at_the_Summer_and_Winter_Olympic_Games/links/0c9605229d43e35dbf000000.pdf?origin=publication_detail"],
             "implementations": []
         },
         {
             "name": "What is an Autoencoder?",
-            "link": "https://www.youtube.com/watch?v=Rdpbnd0pCiI",
+            "url": "https://www.youtube.com/watch?v=Rdpbnd0pCiI",
             "papers": ["https://arxiv.org/pdf/1312.6114.pdf"],
             "implementations": []
         },
         {
             "name": "Neural Material Synthesis",
-            "link": "https://www.youtube.com/watch?v=XpwW3glj2T8",
+            "url": "https://www.youtube.com/watch?v=XpwW3glj2T8",
             "papers": ["https://mediatech.aalto.fi/publications/graphics/TwoShotSVBRDF/aittala2015_siggraph.pdf", "https://mediatech.aalto.fi/publications/graphics/NeuralSVBRDF/aittala2016_siggraph.pdf"],
             "implementations": []
         },
         {
             "name": "3D Printing With Filigree Patterns",
-            "link": "https://www.youtube.com/watch?v=cVZzkSaxKmY",
+            "url": "https://www.youtube.com/watch?v=cVZzkSaxKmY",
             "papers": ["http://i.cs.hku.hk/~wkchen/projects/papers/weikai_sig16_filigree_final.pdf"],
             "implementations": []
         },
         {
             "name": "Interactive Hair-Solid Simulations",
-            "link": "https://www.youtube.com/watch?v=HvHZXPd0Bjs",
+            "url": "https://www.youtube.com/watch?v=HvHZXPd0Bjs",
             "papers": ["http://gaps-zju.org/mlchai/resources/chai2016adaptive.pdf"],
             "implementations": []
         },
         {
             "name": "StyLit, Illumination-Guided Artistic Style Transfer",
-            "link": "https://www.youtube.com/watch?v=ksCSL6Ql0Yg",
+            "url": "https://www.youtube.com/watch?v=ksCSL6Ql0Yg",
             "papers": ["http://dcgi.fel.cvut.cz/home/sykorad/Fiser16-SIG.pdf"],
             "implementations": []
         },
         {
             "name": "Automatic Hair Modeling from One Image",
-            "link": "https://www.youtube.com/watch?v=XmM1tF7AxdA",
+            "url": "https://www.youtube.com/watch?v=XmM1tF7AxdA",
             "papers": ["http://gaps-zju.org/mlchai/resources/chai2016autohair.pdf"],
             "implementations": []
         },
         {
             "name": "WaveNet by Google DeepMind",
-            "link": "https://www.youtube.com/watch?v=CqFIVCD1WWo",
+            "url": "https://www.youtube.com/watch?v=CqFIVCD1WWo",
             "papers": ["https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view"],
             "implementations": []
         },
         {
             "name": "Estimating Matrix Rank With Neural Networks",
-            "link": "https://www.youtube.com/watch?v=bLFISzfQCDQ",
+            "url": "https://www.youtube.com/watch?v=bLFISzfQCDQ",
             "papers": ["http://www.oneweirdkerneltrick.com/rank.pdf"],
             "implementations": []
         },
         {
             "name": "Sound Propagation With Adaptive Impulse Responses",
-            "link": "https://www.youtube.com/watch?v=Mx8viOFKiIs",
+            "url": "https://www.youtube.com/watch?v=Mx8viOFKiIs",
             "papers": ["http://gamma.cs.unc.edu/ADAPTIVEIR/paper.pdf"],
             "implementations": []
         },
         {
             "name": "3D Printing Auxetic Materials",
-            "link": "https://www.youtube.com/watch?v=5-xMV3sT3Tw",
+            "url": "https://www.youtube.com/watch?v=5-xMV3sT3Tw",
             "papers": ["http://lgg.epfl.ch/publications/2016/BeyondDevelopable/paper.pdf"],
             "implementations": []
         },
         {
             "name": "Sound Synthesis for Fluids With Bubbles",
-            "link": "https://www.youtube.com/watch?v=kwqme8mEgz4",
+            "url": "https://www.youtube.com/watch?v=kwqme8mEgz4",
             "papers": ["http://www.cs.cornell.edu/projects/Sound/bubbles/bubbles.pdf"],
             "implementations": []
         },
         {
             "name": "3D Printing Materials With Subsurface Scattering",
-            "link": "https://www.youtube.com/watch?v=w2D5JR83pFI",
+            "url": "https://www.youtube.com/watch?v=w2D5JR83pFI",
             "papers": ["http://people.csail.mit.edu/wojciech/PRO/PRO.pdf"],
             "implementations": []
         },
         {
             "name": "MeshGit: Version Control for Meshes",
-            "link": "https://www.youtube.com/watch?v=p-u2NZ4vUxI",
+            "url": "https://www.youtube.com/watch?v=p-u2NZ4vUxI",
             "papers": ["http://pellacini.di.uniroma1.it/publications/meshgit13/meshgit13-paper.pdf"],
             "implementations": []
         },
         {
             "name": "How Do Neural Networks See The World?",
-            "link": "https://www.youtube.com/watch?v=hBobYd8nNtQ",
+            "url": "https://www.youtube.com/watch?v=hBobYd8nNtQ",
             "papers": ["http://www.evolvingai.org/files/mfv_icml_workshop_16.pdf"],
             "implementations": []
         }

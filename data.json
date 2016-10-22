@@ -428,7 +428,7 @@
             "name": "Artistic Style Transfer For Videos",
             "url": "https://www.youtube.com/watch?v=Uxax5EKg0zA",
             "date": "2016-05-22",
-            "papers": ["https://arxiv.org/pdf/1604.08610v1"],
+            "papers": ["https://arxiv.org/pdf/1604.08610v1", "https://arxiv.org/pdf/1604.08610v1.pdf"],
             "implementations": ["https://github.com/manuelruder/artistic-videos"]
         },
         {

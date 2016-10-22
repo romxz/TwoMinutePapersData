@@ -639,7 +639,7 @@
             "url": "https://www.youtube.com/watch?v=pqkpIfu36Os",
             "date": "2016-10-22",
             "papers": ["https://arxiv.org/pdf/1609.03552v2.pdf"],
-            "implementations": []
+            "implementations": ["https://github.com/junyanz/iGAN"]
         }
     ]
 }

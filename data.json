@@ -39,7 +39,7 @@
             "url": "https://www.youtube.com/watch?v=-R9bJGNHltQ",
             "date": "2015-08-29",
             "papers": ["https://arxiv.org/pdf/1508.06576v1.pdf"],
-            "implementations": []
+            "implementations": ["https://github.com/jcjohnson/neural-style"]
         },
         {
             "name": "Hydrographic Printing (in 3D)",
@@ -429,7 +429,7 @@
             "url": "https://www.youtube.com/watch?v=Uxax5EKg0zA",
             "date": "2016-05-22",
             "papers": ["https://arxiv.org/pdf/1604.08610v1"],
-            "implementations": []
+            "implementations": ["https://github.com/manuelruder/artistic-videos"]
         },
         {
             "name": "Surface-Only Liquids",

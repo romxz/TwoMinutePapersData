@@ -633,6 +633,13 @@
             "date": "2016-10-16",
             "papers": ["http://www.evolvingai.org/files/mfv_icml_workshop_16.pdf"],
             "implementations": []
+        },
+        {
+            "name": "Image Editing with Generative Adversarial Networks",
+            "url": "https://www.youtube.com/watch?v=pqkpIfu36Os",
+            "date": "2016-10-22",
+            "papers": ["https://arxiv.org/pdf/1609.03552v2.pdf"],
+            "implementations": []
         }
     ]
 }

@@ -6,7 +6,8 @@
             "date": "2015-07-28",
             "tags": [],
             "papers": ["http://www.cs.cornell.edu/~tedkim/wturb/wavelet_turbulence.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Capturing Waves of Light With Femto-photography",
@@ -14,7 +15,8 @@
             "date": "2015-08-08",
             "tags": [],
             "papers": ["http://dspace.mit.edu/openaccess-disseminate/1721.1/82039"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Artificial Neural Networks and Deep Learning",
@@ -28,7 +30,8 @@
             "date": "2015-08-22",
             "tags": [],
             "papers": ["http://graphics.berkeley.edu/papers/Pfaff-ATC-2014-07/Pfaff-ATC-2014-07.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Time Lapse Videos From Community Photos",
@@ -36,7 +39,8 @@
             "date": "2015-08-25",
             "tags": [],
             "papers": ["http://grail.cs.washington.edu/projects/timelapse/TimelapseMiningSIGGRAPH15.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Deep Neural Network Learns Van Gogh's Art",
@@ -44,7 +48,8 @@
             "date": "2015-08-29",
             "tags": [],
             "papers": ["https://arxiv.org/pdf/1508.06576v1.pdf"],
-            "implementations": ["https://github.com/jcjohnson/neural-style"]
+            "implementations": ["https://github.com/jcjohnson/neural-style"],
+            "transcript": []
         },
         {
             "name": "Hydrographic Printing (in 3D)",
@@ -52,7 +57,8 @@
             "date": "2015-08-31",
             "tags": [],
             "papers": ["http://www.cs.columbia.edu/~cxz/publications/hydrographics.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Digital Creatures Learn To Walk",
@@ -60,7 +66,8 @@
             "date": "2015-09-08",
             "tags": [],
             "papers": ["http://www.goatstream.com/research/papers/SA2013/SA2013.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": " Manipulating Photorealistic Renderings",
@@ -68,7 +75,8 @@
             "date": "2015-09-11",
             "tags": [],
             "papers": ["https://cg.ivd.kit.edu/publications/p2013/PSMPBLT/PSMPBLT.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Adaptive Fluid Simulations",
@@ -76,7 +84,8 @@
             "date": "2015-09-21",
             "tags": [],
             "papers": ["http://pub.ist.ac.at/group_wojtan/projects/2013_Ando_HALSoTM/download/tetflip_fixed.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Building Bridges With Flying Machines",
@@ -84,7 +93,8 @@
             "date": "2015-09-27",
             "tags": [],
             "papers": ["http://flyingmachinearena.org/wp-content/publications/2013/augIROS13.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Reconstructing Sound From Vibrations",
@@ -92,7 +102,8 @@
             "date": "2015-09-30",
             "tags": [],
             "papers": ["http://people.csail.mit.edu/mrub/papers/VisualMic_SIGGRAPH2014.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Creating Photographs Using Deep Learning",
@@ -100,7 +111,8 @@
             "date": "2015-10-03",
             "tags": [],
             "papers": ["http://research.microsoft.com/en-us/um/people/yuedong/project/neuralibr/neuralibr.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Adaptive Cloth Simulations",
@@ -108,7 +120,8 @@
             "date": "2015-10-06",
             "tags": [],
             "papers": ["http://graphics.berkeley.edu/papers/Narain-AAR-2012-11/Narain-AAR-2012-11.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Synthesizing Sound From Collisions",
@@ -116,7 +129,8 @@
             "date": "2015-10-11",
             "tags": [],
             "papers": ["http://www.cs.cornell.edu/projects/Sound/mc/ModalContactSound2011.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Metropolis Light Transport",
@@ -124,7 +138,8 @@
             "date": "2015-10-14",
             "tags": [],
             "papers": ["http://graphics.stanford.edu/papers/metro/metro.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "3D Printing a Glockenspiel",
@@ -132,7 +147,8 @@
             "date": "2015-10-17",
             "tags": [],
             "papers": ["http://people.seas.harvard.edu/~gaurav/papers/cdmcs_sa_2015/cdmcs_sa_2015.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Modeling Colliding and Merging Fluids",
@@ -140,7 +156,8 @@
             "date": "2015-10-20",
             "tags": [],
             "papers": ["http://www.cs.columbia.edu/cg/multitracker/multitracker.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Recurrent Neural Network Writes Music and Shakespeare Novels",
@@ -148,7 +165,8 @@
             "date": "2015-10-23",
             "tags": [],
             "papers": ["http://karpathy.github.io/2015/05/21/rnn-effectiveness/"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Gradients, Poisson's Equation and Light Transport",
@@ -156,7 +174,8 @@
             "date": "2015-10-26",
             "tags": [],
             "papers": ["https://mediatech.aalto.fi/publications/graphics/GPT/kettunen2015siggraph_paper.pdf", "https://mediatech.aalto.fi/publications/graphics/GMLT/lehtinen2013siggraph_paper.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Real-Time Facial Expression Transfer",
@@ -164,7 +183,8 @@
             "date": "2015-10-30",
             "tags": [],
             "papers": ["http://graphics.stanford.edu/~niessner/papers/2015/10face/thies2015realtime.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Automatic Lecture Notes From Videos",
@@ -172,7 +192,8 @@
             "date": "2015-11-03",
             "tags": [],
             "papers": ["http://web.mit.edu/hishin/www/paper.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Recurrent Neural Network Writes Sentences About Images",
@@ -180,7 +201,8 @@
             "date": "2015-11-07",
             "tags": [],
             "papers": ["http://cs.stanford.edu/people/karpathy/cvpr2015.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "How Does Deep Learning Work?",
@@ -197,7 +219,8 @@
             "date": "2015-11-15",
             "tags": [],
             "papers": ["http://math.boisestate.edu/~liljanab/Math509Spring10/vernam.pdf"],
-            "implementations": []
+            "implementations": [],
+            "transcript": []
         },
         {
             "name": "Terrain Traversal with Reinforcement Learning",
@@ -705,7 +728,8 @@
             "date": "2016-09-01",
             "tags": [],
             "papers": ["http://dcgi.fel.cvut.cz/home/sykorad/Fiser16-SIG.pdf"],
-            "implementations": ["https://github.com/manuelruder/artistic-videos"]
+            "implementations": ["https://github.com/manuelruder/artistic-videos"],
+            "transcript": []
         },
         {
             "name": "Automatic Hair Modeling from One Image",
